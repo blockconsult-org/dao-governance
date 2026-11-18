@@ -3,7 +3,7 @@
   "name": "DAO Governance Simulator",
   "nameDe": "DAO-Governance-Simulator",
   "description": "Explore voting rules, participation, concentration and coalition outcomes.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "appId": "org.blockconsult.daogovernance",
   "publicPath": "/tools/dao-governance",
   "repository": "https://github.com/blockconsult-org/dao-governance",

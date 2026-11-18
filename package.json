@@ -1,6 +1,6 @@
 {
   "name": "@blockconsult/dao-governance",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "description": "Explore voting rules, participation, concentration and coalition outcomes.",
   "author": "Block Consult GmbH",
