@@ -4,7 +4,7 @@
 
 Explore voting rules, participation, concentration and coalition outcomes. A focused, offline desktop workspace from [Block Consult](https://www.blockconsult.org), available in English and German.
 
-[![Build](https://github.com/blockconsult-org/dao-governance/actions/workflows/release.yml/badge.svg)](https://github.com/blockconsult-org/dao-governance/actions) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Latest release](https://img.shields.io/github/v/release/blockconsult-org/dao-governance)](https://github.com/blockconsult-org/dao-governance/releases/latest) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) · [Platform builds](https://github.com/blockconsult-org/dao-governance/actions/workflows/release.yml)
 
 **[Download for macOS or Windows](https://github.com/blockconsult-org/dao-governance/releases/latest)** · [Use in your browser](https://www.blockconsult.org/tools/dao-governance) · [Report an issue](https://github.com/blockconsult-org/dao-governance/issues)
 
